@@ -1,2 +1,2 @@
 # keyd-configs
-Keyd configs for Chromebooks
+[keyd](https://github.com/rvaiya/keyd) configs for Chromebooks
